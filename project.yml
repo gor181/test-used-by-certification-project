@@ -28,3 +28,4 @@ language       : python # One of r, python or sql
 # The name of the docker image used to run the course
 from           : 'python-notebooks-prod:117'
 runtime_config : default # default/heavy . Set to heavy for more resource intensive projects.
+used_by_certification: true
